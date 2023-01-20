@@ -17,6 +17,6 @@
  This is a description
  
  Heading | Another Heading
- _______ | _______________
+ ------- | ---------------
  cell 1 | cell 2
  cell 3 | cell 4
